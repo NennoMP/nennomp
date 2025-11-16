@@ -1,3 +1,3 @@
-I am a Research Fellow in Machine Learning at the [Computational Intelligence and Machine Learning Lab](https://ciml.di.unipi.it/), advised by [Claudio Gallicchio](https://sites.google.com/site/cgallicch/).
+I am a Research Fellow in Machine Learning at the [Computational Intelligence and Machine Learning Lab](https://ciml.di.unipi.it/), advised by [Prof. Claudio Gallicchio](https://sites.google.com/site/cgallicch/). Previously, I interned at [German Center for Open Source AI](https://gc-os-ai.github.io/) and [European Summer of Code](https://www.esoc.dev/), mentored by Dr. Franz Király.
 
-I am interested in Deep Learning and Reservoir Computing, with emphasis on efficient and stable (deep) neural networks. I am also involved in [NEURONE](https://sites.google.com/unipi.it/neurone), an EU-funded project which focuses on efficient neuromorphic AI systems.
+I am interested in efficient deep learning (DL) and reservoir computing (RC), with emphasis on randomization-based neural networks that learn through time. I also investigate neuromorphic reservoir computing in nanowire hardware with [NEURONE](https://sites.google.com/unipi.it/neurone).
